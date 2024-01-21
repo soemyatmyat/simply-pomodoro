@@ -1,0 +1,1082 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:00:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:00:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:42:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:42:29] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:42:29] "GET /static/img/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:45:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:45:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:45:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:45:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 22:45:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:05:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:05:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:07:00] "GET /manifest.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:07:00] "[33mGET /pwa-pomodoro/static/img/icons/android-chrome-192x192.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:07:00] "[33mGET /pwa-pomodoro/static/img/icons/android-chrome-512x512.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:17:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:17:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:27:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:27:46] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 23:27:46] "GET /static/img/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 865-245-760
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:15:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:15:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:15:33] "GET /static/img/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:35:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:35:49] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:36:55] "[33mGET /ping HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:36:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:37:48] "[33mGET /ping HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:46:13] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:48:20] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:53:57] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:54:05] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:54:10] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:55:37] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:57:18] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:57:32] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:58:33] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:51:35] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:56:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 15:46:59] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 15:47:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 15:48:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 15:54:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 15:56:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 18:05:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 18:05:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 18:58:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 18:58:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 18:58:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:12:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:12:03] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:12:04] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:12:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:13:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:13:55] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:14:04] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:14:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:14:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:18:14] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:18:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:18:58] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:31:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:37:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:37:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:38:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:38:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:40:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:09] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:16] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:16] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:41:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:08] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:08] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:42:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:43:03] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:43:03] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:43:03] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:43:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:45:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:45:59] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:45:59] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 19:45:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:42:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:43:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:43:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:43:57] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:43:57] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:43:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:18] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:18] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:41] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:41] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:55] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:55] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:45:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:46:08] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:46:08] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:46:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:49:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:49:28] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:49:29] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:49:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:50:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:50:45] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:50:45] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:50:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:42] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:47] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:47] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:57] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:57] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:52:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:53:22] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:53:22] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:53:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:36] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:36] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:41] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:41] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:54:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:17] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:17] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:17] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:44] "OPTIONS /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:44] "PUT /tasks/${taskId} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:55:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:23] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:23] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:23] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:27] "OPTIONS /tasks/70aefd52c37c40668a0c261873962e61 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:27] "[35m[1mPUT /tasks/70aefd52c37c40668a0c261873962e61 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:34] "OPTIONS /tasks/70aefd52c37c40668a0c261873962e61 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:34] "[35m[1mPUT /tasks/70aefd52c37c40668a0c261873962e61 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:57:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 21:58:17] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:00:33] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:00:33] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:00:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:00:41] "OPTIONS /tasks/d31b491243674c93b8b854e9856426bb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:00:41] "PUT /tasks/d31b491243674c93b8b854e9856426bb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:00:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:29] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:29] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:32] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:38] "OPTIONS /tasks/5856e77a5a4b4270a9ca2655ae3dd1fb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:38] "PUT /tasks/5856e77a5a4b4270a9ca2655ae3dd1fb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:04:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:05:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:06:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:06:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:07:48] "OPTIONS /tasks/8f84625a620d4c68bba56d3677648317 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:07:48] "PUT /tasks/8f84625a620d4c68bba56d3677648317 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:07:48] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:08:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:08:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:08:53] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:09:01] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:09:01] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:09:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:10:26] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:10:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:11:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:12:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:13:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:13:09] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:13:48] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:34] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:34] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:36] "OPTIONS /tasks/ccbd1ec076ef4ffbad1d752f613c5a48 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:36] "DELETE /tasks/ccbd1ec076ef4ffbad1d752f613c5a48 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:14:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:16:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:16:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:17:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:17:25] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:18:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:18:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:18:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:21:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:21:06] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:21:06] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:21:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:21:10] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:21:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:12] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:12] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:16] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:44] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:44] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:24:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:25:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:26:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:26:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:26:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:13] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:13] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:52] "OPTIONS /tasks/f2701a6020cb44128a775179572325c6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:52] "DELETE /tasks/f2701a6020cb44128a775179572325c6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:28:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:29:09] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:33:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:34:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:20] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:20] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:25] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:25] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:39] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:39] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:42:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:13] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:13] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:43:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:44:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:44:35] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:44:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:44:42] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:45:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:45:23] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:45:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:11] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:12] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:35] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:56] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:56] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:46:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:47:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:47:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:47:23] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:47:23] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:47:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:47:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:48:54] "OPTIONS /tasks/62fa37ccf8494ac786b163390e08ae41 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:48:54] "DELETE /tasks/62fa37ccf8494ac786b163390e08ae41 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:48:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:49:05] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:49:05] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:49:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:49:45] "OPTIONS /tasks/b4653b81b22540f28208727af83a1ab1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:49:45] "DELETE /tasks/b4653b81b22540f28208727af83a1ab1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:49:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:50:05] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:50:06] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:50:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:51:02] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:51:02] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 22:51:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:12:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:12:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:12:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:14:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:15:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:15:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:15:25] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:15:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:15:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:15:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:17:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:37:47] "OPTIONS /tasks/a0c2db182aa74eb287e0e371890aa056 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:37:47] "DELETE /tasks/a0c2db182aa74eb287e0e371890aa056 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:37:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:38:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 23:39:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:18:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:22:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:22:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:25:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:25:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:25:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:34:12] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:34:12] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:34:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:34:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:37:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:37:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:38:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:41:27] "OPTIONS /tasks/e692e81fb3474201b86f2042d138423f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:41:27] "DELETE /tasks/e692e81fb3474201b86f2042d138423f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:41:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:41:28] "OPTIONS /tasks/5915ce36464348d6930870d155d75b66 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:41:28] "DELETE /tasks/5915ce36464348d6930870d155d75b66 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:41:28] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:43:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:43:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:44:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:46:14] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:46:14] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:46:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:46:27] "OPTIONS /tasks/edce652704be41cca53e91b766a66472 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:46:27] "PUT /tasks/edce652704be41cca53e91b766a66472 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:46:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:47:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/soemyatmyat/_coding_projects/pwa-pomodoro/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 229-542-699
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:20] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:20] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:26] "OPTIONS /tasks/43e250032b7948259da3f0f4f0121c25 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:26] "PUT /tasks/43e250032b7948259da3f0f4f0121c25 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:49:26] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2024 00:51:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 679-602-686
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 19:41:35] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 19:45:23] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:15:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:19:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:37:57] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:37:57] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:37:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:46:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:47:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:53:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:54:43] "OPTIONS /tasks/f61f1f36102643ab9e357f714fed4299 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:54:44] "PUT /tasks/f61f1f36102643ab9e357f714fed4299 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:54:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:54:54] "OPTIONS /tasks/7dfbe255fa694973b70987daf9a0abf9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:54:54] "DELETE /tasks/7dfbe255fa694973b70987daf9a0abf9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:54:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:11] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:11] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:16] "OPTIONS /tasks/a255614618024914b452d990d740b417 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:16] "DELETE /tasks/a255614618024914b452d990d740b417 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:55:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 22:56:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:19:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:20:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:25:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:39:48] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:40:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:42:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:42:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:42:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:45:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:47:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:47:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:47:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:47:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:54:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:56:04] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:57:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:00:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:03:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:07:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:10:03] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:10:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:11:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:11:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:12:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:12:25] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:12:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:14:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:14:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:14:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:15:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:15:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:15:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:16:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:17:35] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:18:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:18:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:18:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:18:28] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:18:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:19:53] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:21:49] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:24:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:24:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:25:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:25:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:25:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:26:50] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:26:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:27:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:28:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:28:26] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:28:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:29:17] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:29:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:29:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:30:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:30:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:30:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:31:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:31:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:31:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:31:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:31:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:32:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:32:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:32:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:32:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:33:00] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:33:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:33:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:33:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:34:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:34:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:34:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:34:29] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:34:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:35:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:35:04] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:36:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:36:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:38:03] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:38:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:38:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:38:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:38:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:39:25] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:39:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:40:00] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:40:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:40:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:41:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:41:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:42:26] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:42:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:43:55] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:43:58] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:44:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:45:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:45:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:45:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:46:00] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:46:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:46:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:47:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:47:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:47:48] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:48:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:49:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:54:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:56:49] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:58:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:59:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:59:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 00:59:49] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:05:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:07:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:07:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:09:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:09:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:10:04] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:10:58] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:11:03] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:11:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:11:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:12:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:12:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:13:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:38:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:41:47] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:42:01] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:42:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:44:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:44:42] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:44:58] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:45:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:46:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:46:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:47:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:49:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:49:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 01:49:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 02:11:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 02:13:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 679-602-686
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:39:03] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:39:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:41:42] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:46:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:46:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:47:22] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:47:22] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:47:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:48:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:50:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:52:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:52:49] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:52:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:53:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:53:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:55:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:55:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:21:17] "OPTIONS /tasks/3f214a5f3f9e4893a9bbbba2588cdfda HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:21:17] "PUT /tasks/3f214a5f3f9e4893a9bbbba2588cdfda HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:21:17] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:31:02] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:38:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:39:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:46:28] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:46:28] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:46:28] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:48:23] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:48:23] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:48:23] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:48:30] "OPTIONS /tasks/065b35b8d2bb4a83b0c29e9c85c6c9e8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:48:30] "DELETE /tasks/065b35b8d2bb4a83b0c29e9c85c6c9e8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:48:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:56:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 12:57:23] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:02:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:03:53] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:06:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:08:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:08:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:09:49] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:10:23] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:11:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:11:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:11:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:11:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:12:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:12:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:20:09] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:20:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:53:21] "OPTIONS /tasks/9281e8ab020c41beb7db875e87ed77dd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:53:21] "PUT /tasks/9281e8ab020c41beb7db875e87ed77dd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:53:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:56:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:56:42] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:56:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:56:58] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:57:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:57:15] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:57:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:57:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:57:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:59:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:59:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:00:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:00:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:05:26] "OPTIONS /tasks/5d368ae500f54d09872b9e2d173d69c5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:05:26] "PUT /tasks/5d368ae500f54d09872b9e2d173d69c5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:05:26] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:05:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:06:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:06:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:06:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:06:25] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:06:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:06:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:09:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:09:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:09:37] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:09:50] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:10:33] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:10:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:10:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:11:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:11:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:12:20] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:12:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:12:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:13:05] "OPTIONS /tasks/e22fb561a1cb44b79a489448a7602f9d HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:13:05] "DELETE /tasks/e22fb561a1cb44b79a489448a7602f9d HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:13:05] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:13:16] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:13:16] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:13:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:38:38] "OPTIONS /tasks/9073b74c11544d4099f4fc128d0f53ac HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:38:38] "PUT /tasks/9073b74c11544d4099f4fc128d0f53ac HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:38:38] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:40:48] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:42:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:42:17] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:42:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:43:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:43:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:43:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:44:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:44:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:44:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:44:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:45:57] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:00] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:04] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:19] "OPTIONS /tasks/5368a982c7394fc5949aa42d7a4bb5bf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:19] "DELETE /tasks/5368a982c7394fc5949aa42d7a4bb5bf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:19] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:27] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:27] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:46:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:51:34] "OPTIONS /tasks/8df38aad820d4bac9547e77cd9b50ebd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:51:34] "PUT /tasks/8df38aad820d4bac9547e77cd9b50ebd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:51:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:44] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:52] "OPTIONS /tasks/9aed154d58ee4b19b7aaaf25d60bf55e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:52] "DELETE /tasks/9aed154d58ee4b19b7aaaf25d60bf55e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:58] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:59] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:53:59] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:54:36] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:54:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:59:50] "OPTIONS /tasks/acdfbc7f84cd420b9498ecbbcf49c547 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:59:50] "PUT /tasks/acdfbc7f84cd420b9498ecbbcf49c547 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 14:59:50] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:12] "OPTIONS /tasks/0a5f18124d3f4b5d81594305040decd8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:12] "DELETE /tasks/0a5f18124d3f4b5d81594305040decd8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:14] "OPTIONS /tasks/f4af7471b3fb405789a19422f2aa8865 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:14] "DELETE /tasks/f4af7471b3fb405789a19422f2aa8865 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:28] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:28] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:11:28] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:14:07] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:14:09] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:14:11] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:35:34] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:35:34] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:35:34] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:35:45] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:35:45] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:35:45] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:40:43] "OPTIONS /tasks/2f4105acd3c6447599c139babd0ca710 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:40:43] "PUT /tasks/2f4105acd3c6447599c139babd0ca710 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:40:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:44:31] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:44:42] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:45:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:45:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:49:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:51:46] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:54:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:56:06] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:56:21] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:56:39] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:56:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:56:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:13] "OPTIONS /tasks/9cb261cd1af64e86a83260ce3f8be13e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:13] "DELETE /tasks/9cb261cd1af64e86a83260ce3f8be13e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:13] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:30] "OPTIONS /tasks/57ede369ac9f4607b1a8137cc9ad5d2b HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:30] "DELETE /tasks/57ede369ac9f4607b1a8137cc9ad5d2b HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:32] "OPTIONS /tasks/35482720fd044bfeb63cb797c7279707 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:32] "DELETE /tasks/35482720fd044bfeb63cb797c7279707 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 15:59:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:00:18] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:00:18] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:00:18] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:11:32] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:11:51] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:11:58] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:13:16] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:13:16] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:13:16] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:18:40] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:19:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:20:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:20:30] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:20:43] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:20:55] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:22:24] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 16:23:12] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:15:22] "OPTIONS /tasks/d0fb9a24e5c7453797d0a140bc4722b1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:15:22] "PUT /tasks/d0fb9a24e5c7453797d0a140bc4722b1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:15:22] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:28:56] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:28:56] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:28:56] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 17:29:54] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 18:18:28] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 18:55:48] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 18:56:14] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:21:52] "OPTIONS /tasks/bfa8751255ed43c38f44df7cc3e8054e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:21:52] "PUT /tasks/bfa8751255ed43c38f44df7cc3e8054e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:21:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:29:35] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:29:41] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:08] "OPTIONS /tasks/2ed3e964b07f42f7a315cef0fd2daceb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:08] "DELETE /tasks/2ed3e964b07f42f7a315cef0fd2daceb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:08] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:10] "OPTIONS /tasks/be79e053842840babbbf927e81e97fcc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:10] "DELETE /tasks/be79e053842840babbbf927e81e97fcc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:10] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:27] "OPTIONS /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:27] "POST /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:33:27] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:43:52] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:50:49] "GET /tasks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 19:50:51] "GET /tasks HTTP/1.1" 200 -

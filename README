@@ -1,0 +1,34 @@
+** Iteration 0.1 **
+[done] Flask Boiler-plate
+[done] VUE Boiler-plate
+[done] CRUD Task
+[done] Timer Play, Pause, Reset
+[done] Display Running Task + Update Pomodoro of Running Task 
+[done] Auto-switch between Focus and Break 
+[done] UI aesthetic (dark, light, auto mode, color schemes)
+
+** Iteration 0.2 **
+[ ] Service Worker + mainfest
+[ ] Push Notifications
+[ ] Settings (Pomodo, Short Break, Long Break, Auto continue, Music, Notifications)
+[ ] Add Background music (Rain Piano Cafe on loop)
+[ ] UI Validation Check
+[ ] UI Intuitive Check (Esc button to close the modal)
+[ ] Session Cache data (no database, data plunged after browser closes) 
+[ ] Offline capability (download all css, json and other supporting files)
+
+** Iteration 0.3 ** 
+[ ] Hosting consideration 
+
+** Iteration 0.4 **
+[ ] Data Analytics in session only
+[ ] Data Analytics with Import/Export Capability 
+
+
+## Description
+A simple intuitive single page pomodoro application with progress web app features. 
+Download-able, Install-able as an app to mobile devices. Works with or without internet!
+
+by boring-is-good.com.  
+
+https://blog.openreplay.com/vue3--building-a-progressive-web-app/

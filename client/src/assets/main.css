@@ -1,0 +1,95 @@
+@import './base.css';
+
+/* #app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+} */
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+/* 
+@media (hover: hover) {
+  a:hover {
+    background-color: hsl(160, 98%, 49%);
+  }
+} */
+
+/* @media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
+
+.wrapper {
+  width: 90%;
+  max-width: 27.25em;
+  padding: 3.12em 5em;
+  border-radius: 0.5em;
+}
+.timer-display {
+  font-size: 2.18em;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0,139,253,0.25);
+  padding: 10px 10px;
+  font-family: "Verdana", monospace;
+  font-size: 70px;
+  border: solid #51B170 7px;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0 0 0.5em;
+  border: solid #bbb 1px;
+}
+
+.dot-filled {
+  height: 25px;
+  width: 25px;
+  background-color: #51B170;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0 0 0.5em;
+  border: solid #bbb 1px;
+}
+
+.modal {
+  --bs-modal-bg: var(--color-background);
+}
+
+/** Timer **/
+.e-c-base {
+  fill: none;
+  stroke: #B6B6B6;
+  stroke-width: 4px
+}
+.e-c-progress {
+  fill: none;
+  stroke: #51B170;
+  stroke-width: 4px;
+  transition: stroke-dashoffset 0.7s;
+}
+.e-c-pointer {
+  fill: #FFF;
+  stroke: #51B170;
+  stroke-width: 2px;
+}
+.circle {
+  text-align: center;
+}
