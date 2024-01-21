@@ -1,0 +1,53 @@
+#Ignore Mac System files
+.DS_store 
+
+#Ignore these folders
+__pycache__
+venv
+specifications
+
+#Ignore environment files
+*.env 
+*.flaskenv
+
+#Ignore all text files
+*.txt 
+
+#Ignore SASS config files
+.sass-cache
+
+#Ignore the log files
+*.log
+
+#Ignore images
+*.png
+*.jpg
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
