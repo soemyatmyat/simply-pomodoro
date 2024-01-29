@@ -24,15 +24,17 @@ Download-able, Install-able as an app to mobile devices. Works with or without i
 - - [x] IndexedDB (NoSQL, Object-oriented): structured data (at the end of the session, the data is wiped out.)
 - - [x] Local Storage: session_id (only when online)
 
-### Iteration 0.3 ** 
+### Iteration 0.3
 - [x] Hosting consideration 
 - [ ] Fix Notificatin in Production 
+- [ ] Add Background music (Rain Piano Cafe on loop)
+- [ ] Revist UI aesthetic 
 - [ ] Login Module (with Database)
 - - [ ] No limit of tasks when login
 - - [ ] SW to sync with backends once online 
 - - [ ] Handle uuid hex 
  
-### Iteration 0.4 **
+### Iteration 0.4
 - [ ] Data Analytics for registered users only
 - [ ] Data Analytics with Import/Export Capability 
 
