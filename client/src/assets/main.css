@@ -47,7 +47,7 @@ a,
   padding: 10px 10px;
   font-family: "Verdana", monospace;
   font-size: 70px;
-  border: solid #51B170 7px;
+  border: solid #EC564F 7px;
 }
 
 .dot {
@@ -81,7 +81,7 @@ a,
 }
 .e-c-progress {
   fill: none;
-  stroke: #51B170;
+  stroke: #EC564F; /** #EC564F 51B170 **/
   stroke-width: 4px;
   transition: stroke-dashoffset 0.7s;
 }

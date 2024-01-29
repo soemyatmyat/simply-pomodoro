@@ -50,6 +50,9 @@
     --color-heading: var(--vt-c-text-dark-1);
     --color-text: var(--vt-c-text-dark-2);
   }
+  text {
+    color: #000;
+  }
 }
 
 *,
@@ -78,5 +81,6 @@ body {
 .table {
   color: var(--color-text);
 }
+
 
 
