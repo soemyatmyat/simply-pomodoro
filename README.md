@@ -26,22 +26,23 @@ Download-able, Install-able as an app to mobile devices. Works with or without i
 
 ### Iteration 0.3
 - [x] Hosting consideration 
-- [ ] Fix Notificatin in Production 
+- [x] Fix Notificatin in Production 
 - [ ] Add Background music (Rain Piano Cafe on loop)
-- [ ] Revist UI aesthetic 
+- [x] Revist UI aesthetic 
+- [ ] Bugs Fix
 - [ ] Login Module (with Database)
 - - [ ] No limit of tasks when login
 - - [ ] SW to sync with backends once online 
 - - [ ] Handle uuid hex 
  
 ### Iteration 0.4
-- [ ] Data Analytics for registered users only
+- [ ] Data Analytics (for registered users only)
 - [ ] Data Analytics with Import/Export Capability 
 
 
 ## References
-- Notification API: https://developer.mozilla.org/en-US/docs/Web/API/Notification
-- IndexedDB API: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+- [Notification API](https://developer.mozilla.org/en-US/docs/Web/API/Notification)
+- [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 ## Credits:
 - Favicon from <a href="https://www.flaticon.com/free-icons/pomodoro" title="pomodoro icons">Pomodoro icons created by nangicon - Flaticon</a>

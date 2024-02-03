@@ -1,13 +1,5 @@
 @import './base.css';
 
-/* #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-
-  font-weight: normal;
-} */
-
 a,
 .green {
   text-decoration: none;
@@ -34,41 +26,6 @@ a,
   }
 } */
 
-.wrapper {
-  width: 90%;
-  max-width: 27.25em;
-  padding: 3.12em 5em;
-  border-radius: 0.5em;
-}
-.timer-display {
-  font-size: 2.18em;
-  text-align: center;
-  box-shadow: 0 0 20px rgba(0,139,253,0.25);
-  padding: 10px 10px;
-  font-family: "Verdana", monospace;
-  font-size: 70px;
-  border: solid #EC564F 7px;
-}
-
-.dot {
-  height: 25px;
-  width: 25px;
-  border-radius: 50%;
-  display: inline-block;
-  margin: 0 0 0 0.5em;
-  border: solid #bbb 1px;
-}
-
-.dot-filled {
-  height: 25px;
-  width: 25px;
-  background-color: #51B170;
-  border-radius: 50%;
-  display: inline-block;
-  margin: 0 0 0 0.5em;
-  border: solid #bbb 1px;
-}
-
 .modal {
   --bs-modal-bg: var(--color-background);
 }
@@ -92,4 +49,42 @@ a,
 }
 .circle {
   text-align: center;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0 0 0.5em;
+  border: solid #bbb 1px;
+}
+
+.dot-filled {
+  height: 25px;
+  width: 25px;
+  background-color: #51B170;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0 0 0.5em;
+  border: solid #bbb 1px;
+}
+
+/** SVG icons **/
+.small-svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
 }

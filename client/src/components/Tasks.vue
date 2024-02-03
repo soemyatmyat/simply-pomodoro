@@ -1,14 +1,27 @@
 <template>
   <!-- Image and text -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container">
-      <a class="navbar-brand" @click="handleSettings" style="cursor: pointer;" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-gear" viewBox="0 0 16 16">
-      <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492M5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0"/>
-      <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115z"/>
-    </svg></a><text>Simply Pomodoro | <a href="">LinkedIn</a> | <a href="">GitHub</a> | <a href="https://boring-is-good.com">Personal Blog</a></text>
-    </div>
-  </nav>
-    <div class="container">
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container">
+        <a class="navbar-brand" @click="handleSettings" style="cursor: pointer;" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-gear" viewBox="0 0 16 16">
+        <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492M5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0"/>
+        <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115z"/>
+      </svg>
+        </a>                
+        <div><a class="dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><svg class="small-svg" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" width="32" height="32"><circle cx="8" cy="8" r="7.25" stroke="#5B5B66" stroke-width="1.5"/><mask id="a" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0"><circle cx="8" cy="8" r="7.25" fill="#5B5B66" stroke="#5B5B66" stroke-width="1.5"/></mask><g mask="url(#a)"><path fill="#5B5B66" d="M0 0h8v16H0z"/></g></svg> Theme</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" @click="handleModeOS"><svg class="small-svg" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" width="32" height="32"><circle cx="8" cy="8" r="7.25" stroke="#5B5B66" stroke-width="1.5"/><mask id="a" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0"><circle cx="8" cy="8" r="7.25" fill="#5B5B66" stroke="#5B5B66" stroke-width="1.5"/></mask><g mask="url(#a)"><path fill="#5B5B66" d="M0 0h8v16H0z"/></g></svg> OS Default</a></li>
+              <li><a class="dropdown-item" @click="handleModeLight"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M12 8a4 4 0 1 1-8 0 4 4 0 0 1 8 0zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+              </svg> Light</a></li>
+              <li><a class="dropdown-item" @click="handleModeDark"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+              </svg> Dark</a></li>
+            </ul></div>
+      </div>
+    </nav>
+  
+    <div class="container content">
       <div class="row">
           <div class="col-md-6 offset-md-3">
             <h3 style="text-align: center;">{{ selectedTask !== null ? selectedTask.name : 'Choose a task' }} <svg @click="updateSettings" style="cursor: pointer;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-clockwise" viewBox="0 0 16 16">
@@ -18,25 +31,25 @@
             <div class="circle">
               <svg width="300" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
                 <g transform="translate(110,110)">
-                   <circle r="100" class="e-c-base"/>
-                   <g transform="rotate(-90)">
+                  <circle r="100" class="e-c-base"/>
+                  <g transform="rotate(-90)">
                       <circle r="100" class="e-c-progress" :style="{ strokeDasharray: circumference, strokeDashoffset: dashoffset, stroke: strokecolor }"/>
                       <g id="e-pointer" :style="{ transform: `rotate(${rotation}deg)` }">
-                         <circle cx="100" cy="0" r="8" class="e-c-pointer" :style="{ stroke: strokecolor }"/>
+                        <circle cx="100" cy="0" r="8" class="e-c-pointer" :style="{ stroke: strokecolor }"/>
                       </g>
-                   </g>
-                   <text x="0" y="5" font-size="40" text-anchor="middle" :style="{fill: strokecolor}">{{ formatTime(minutes) }}:{{ formatTime(seconds) }}</text>
-                   
-                   <text x="0" y="60" font-size="16" text-anchor="middle" @click="handleAction" :style="{cursor:'pointer', fill:strokecolor }">{{ action }}</text>
-  
+                  </g>
+                  <text x="0" y="5" font-size="40" text-anchor="middle" :style="{fill: strokecolor}">{{ formatTime(minutes) }}:{{ formatTime(seconds) }}</text>
+                  
+                  <text x="0" y="60" font-size="16" text-anchor="middle" @click="handleAction" :style="{cursor:'pointer', fill:strokecolor }">{{ action }}</text>
+
                 </g>
-             </svg>
+            </svg>
             </div>
           </div>
       </div>
       <div class="row">
-          <button type="button" class="btn btn-success btn-sm" @click="toggleAddTaskModal">Add a New Task </button>
-          <br><br><br><br>
+          &nbsp;<button type="button" class="btn btn-success btn-sm" @click="toggleAddTaskModal">Add a New Task </button>&nbsp;
+          
           <table class="table table-responsive ">
             <thead>
                 <tr>
@@ -71,7 +84,7 @@
             </tbody>
           </table>
       </div>
-  
+
       <!-- add new modal -->
       <div ref="addTaskModal" class="modal fade" :class="{ show: activeAddTaskModal, 'd-block': activeAddTaskModal }" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
@@ -100,7 +113,7 @@
         </div>
       </div>
       <div v-if="activeAddTaskModal" class="modal-backdrop fade show"></div>
-  
+
       <!-- edit task modal -->
       <div ref="editTaskModal" class="modal fade" :class="{ show: activeEditTaskModal, 'd-block': activeEditTaskModal }" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
@@ -172,511 +185,511 @@
         </div>
       </div>
       <div v-if="activeSettingsModal" class="modal-backdrop fade show"></div>
-     
+    
     </div>
-  </template>
+
   
-    <script>
 
-      //===== delete later
-      const dbName = 'pomodoro';
+    <div class="flex-wrapper">
+      <div class="container">
+          <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top"> 
+            <p class="col-md-12 mb-0 text-muted text-center">Simply Pomodoro | <a href="https://boring-is-good.com">Personal Blog</a> | <a title="LinkedIn" href="https://www.linkedin.com/in/soe-myat-myat/"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a> | <a title="GitHub" href="https://github.com/soemyatmyat/"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 6c-3.313 0-6 2.686-6 6 0 2.651 1.719 4.9 4.104 5.693.3.056.396-.13.396-.289v-1.117c-1.669.363-2.017-.707-2.017-.707-.272-.693-.666-.878-.666-.878-.544-.373.041-.365.041-.365.603.042.92.619.92.619.535.917 1.403.652 1.746.499.054-.388.209-.652.381-.802-1.333-.152-2.733-.667-2.733-2.965 0-.655.234-1.19.618-1.61-.062-.153-.268-.764.058-1.59 0 0 .504-.161 1.65.615.479-.133.992-.199 1.502-.202.51.002 1.023.069 1.503.202 1.146-.776 1.648-.615 1.648-.615.327.826.121 1.437.06 1.588.385.42.617.955.617 1.61 0 2.305-1.404 2.812-2.74 2.96.216.186.412.551.412 1.111v1.646c0 .16.096.347.4.288 2.383-.793 4.1-3.041 4.1-5.691 0-3.314-2.687-6-6-6z"/></svg></a>
+            </p>
+          </footer>
+      </div>
+    </div>
+  </body>
+</template>
+  
+  
+  <script>
+    const dbName = 'pomodoro';
 
-      const deleteRequest = indexedDB.deleteDatabase(dbName);
+    import axios from 'axios';
+    axios.defaults.baseURL = 'http://127.0.0.1:5000';
+    axios.defaults.crossDomain = true;
 
-      deleteRequest.onsuccess = function () {
-        console.log('Database deleted successfully');
-      };
+    import { v4 as uuidv4 } from 'uuid';
 
-      deleteRequest.onerror = function (event) {
-        console.error('Error deleting database:', event.target.error);
-      };
+    // Do an initial check to see what the notification permission state is
+    const notifyImg = "img/icons/icon-192x192.png";
+    var notifyPermit = Notification.permission; // default, granted, denied
+    if (notifyPermit === "default") { // let's ask for permission if not set yet
+      Notification.requestPermission().then(permission => {
+        notifyPermit = permission;
+      });
+    }
 
-      //===== delete later
-      import axios from 'axios';
-      axios.defaults.baseURL = 'http://127.0.0.1:5000';
-      axios.defaults.crossDomain = true;
-
-      import { v4 as uuidv4 } from 'uuid';
-
-      // Do an initial check to see what the notification permission state is
-      const notifyImg = "img/icons/icon-192x192.png";
-      var notifyPermit = Notification.permission; // default, granted, denied
-      if (notifyPermit === "default") { // let's ask for permission if not set yet
-        Notification.requestPermission().then(permission => {
-          notifyPermit = permission;
-        });
-      }
-
-      export default {
-        data() {
-          return {
-            //online: navigator.onLine, //uncomment- to integrate with backends
-            online: false,
-            timerRunning: false,
-            minutes: 0,
-            seconds: 0,
-            circumference: 2 * Math.PI * 100, 
-            timerInterval: null,
-            activeAddTaskModal: false,
-            activeEditTaskModal: false,
-            activeSettingsModal: false,
-            selectedTask: null,
-            autoupdate: false,
-            dashoffset: '',
-            rotation: '',
-            action: 'Play',
-            mode: 'Focus',
-            strokecolor: '#51B170', //6085C5-51B170
-            counter: 0,
-            addTaskForm: {
-              name: '',
-              pomodoro: 3,
-            },
-            tasks: [],
-            editTaskForm: {
-              id: '',
-              name: '',
-              pomodoro: '',
-              complete: [],
-            },
-            settings: {
-              shortbreak: 5,
-              longbreak: 5,
-              pomodotime: 10,
-              music: true,
-              notification: notifyPermit === 'granted',
-              autocontinue: false,
-            },
-            indexedDbName: 'pomodoro',
-            objectStoreName: 'tasks',
-          };
-        },
-        methods: {
-          // Notification API // 
-          showNotification(message) {
-            if (this.settings.notification) {    
-              let title = this.selectedTask.name;        
-              new Notification(title, {
-                body: message,
-                icon: notifyImg
-              });
-            }
+    export default {
+      data() {
+        return {
+          //online: navigator.onLine, //uncomment- to integrate with backends
+          online: false,
+          timerRunning: false,
+          minutes: 0,
+          seconds: 0,
+          circumference: 2 * Math.PI * 100, 
+          timerInterval: null,
+          activeAddTaskModal: false,
+          activeEditTaskModal: false,
+          activeSettingsModal: false,
+          selectedTask: null,
+          autoupdate: false,
+          dashoffset: '',
+          rotation: '',
+          action: 'Play',
+          mode: 'Focus',
+          strokecolor: '#51B170', //6085C5-51B170
+          counter: 0,
+          addTaskForm: {
+            name: '',
+            pomodoro: 3,
           },
-          // IndexDB:: Non-blocking //
-          async openDatabase() {
-            return new Promise((resolve, reject) => {
-              let request = indexedDB.open(this.indexedDbName, 1);
-              request.onupgradeneeded = (event) => {
-                // The database did not previously exist, so create object stores and indexes.
-                let db = event.target.result;
-                var data = db.createObjectStore(this.objectStoreName, {
-                  keyPath: 'id'});                
-              };
-              request.onsuccess = (event) => {
-                resolve(event.target.result);
-              };
-              request.onerror = (event) => {
-                reject('Database error: ' + event.target.errorCode);
-              };
+          tasks: [],
+          editTaskForm: {
+            id: '',
+            name: '',
+            pomodoro: '',
+            complete: [],
+          },
+          settings: {
+            shortbreak: 5,
+            longbreak: 30,
+            pomodotime: 25,
+            music: true,
+            notification: notifyPermit === 'granted',
+            autocontinue: false,
+          },
+          indexedDbName: 'pomodoro',
+          objectStoreName: 'tasks',
+        };
+      },
+      methods: {
+        // Notification API // 
+        showNotification(message) {
+          if (this.settings.notification) {    
+            let title = this.selectedTask.name;        
+            new Notification(title, {
+              body: message,
+              icon: notifyImg
             });
-          },
-          async storeData(payload) {
-            let db;
-            try {
-              db = await this.openDatabase();
-              let transaction = db.transaction([this.objectStoreName], 'readwrite');
-              let objectStore = transaction.objectStore(this.objectStoreName);
+          }
+        },
+        // IndexDB:: Non-blocking //
+        async openDatabase() {
+          return new Promise((resolve, reject) => {
+            let request = indexedDB.open(this.indexedDbName, 1);
+            request.onupgradeneeded = (event) => {
+              // The database did not previously exist, so create object stores and indexes.
+              let db = event.target.result;
+              var data = db.createObjectStore(this.objectStoreName, {
+                keyPath: 'id'});                
+            };
+            request.onsuccess = (event) => {
+              resolve(event.target.result);
+            };
+            request.onerror = (event) => {
+              reject('Database error: ' + event.target.errorCode);
+            };
+          });
+        },
+        async storeData(payload) {
+          let db;
+          try {
+            db = await this.openDatabase();
+            let transaction = db.transaction([this.objectStoreName], 'readwrite');
+            let objectStore = transaction.objectStore(this.objectStoreName);
 
-              let request = objectStore.add(payload);
-              request.onsuccess = (event) => {
-                console.log('Data addded successfully to IndexedDb.');
-              }
-              request.onerror = (event) => {
-                console.log('Error adding data: ' + event.target.error)
-              }
-
-            } catch (error) {
-              console.error("Error in storing data in indexedDb: ", error);
-            } finally {
-              db.close();
+            let request = objectStore.add(payload);
+            request.onsuccess = (event) => {
+              console.log('Data addded successfully to IndexedDb.');
             }
-          },
-          async retrieveData() {
-            let db;
-            try {
-              db = await this.openDatabase();
-              let transaction = db.transaction([this.objectStoreName], 'readonly');
-              let objectStore = transaction.objectStore(this.objectStoreName);
-              let request = objectStore.getAll();
-              
-              request.onsuccess = (event) => {
-                this.tasks = event.target.result;
-                //console.log(this.tasks);
-              };
-
-              request.onerror = (event) => {
-                console.log('Error getting data: ' + event.target.errorCode);
-              }
-              
-            } catch (error) {
-              console.error(error);
-            } finally {
-              db.close();
+            request.onerror = (event) => {
+              console.log('Error adding data: ' + event.target.error)
             }
-          },
-          async updateData(payload, id) {
-            let db;
-            try {
-              db = await this.openDatabase();
-              const transaction = db.transaction([this.objectStoreName], 'readwrite');
-              const objectStore = transaction.objectStore(this.objectStoreName);
-              const request = objectStore.get(id);
-              request.onsuccess = (event) => {
-                const updateTask = event.target.result;
-                if (updateTask) {
-                  if (payload.name !== '')
-                    updateTask.name = payload.name;
-                  if (payload.pomodoro !== '')
-                    updateTask.pomodoro = payload.pomodoro;
-                  if (payload.completed !== '')
-                    updateTask.completed = payload.completed;
-                  if (payload.status !== '')
-                    updateTask.status = payload.status;
-                  const putRequest = objectStore.put(updateTask);
-                  putRequest.onsuccess = (event) => { 
-                    console.log('Data updated successfully: ', event.target.result);
-                  };
-                  putRequest.onerror = (event) => {
-                    console.error('Error updating data: ', event.target.error);
-                  };
-                }
-              }
 
-              request.onerror = (event) => {
-                console.error('Error fetching data for update: ', event.target.error);
-              };
-            } catch (error) {
-              console.error('Error opening database: ', error);
-            } 
-          },
-          async removeData(id) {
-            let db;
-            try {
-              db = await this.openDatabase();
-              const transaction = db.transaction([this.objectStoreName], 'readwrite');
-              const objectStore = transaction.objectStore(this.objectStoreName);
+          } catch (error) {
+            console.error("Error in storing data in indexedDb: ", error);
+          } finally {
+            db.close();
+          }
+        },
+        async retrieveData() {
+          let db;
+          try {
+            db = await this.openDatabase();
+            let transaction = db.transaction([this.objectStoreName], 'readonly');
+            let objectStore = transaction.objectStore(this.objectStoreName);
+            let request = objectStore.getAll();
+            
+            request.onsuccess = (event) => {
+              this.tasks = event.target.result;
+              //console.log(this.tasks);
+            };
 
-              const request = objectStore.delete(id);
-              request.onsuccess = (event) => {
-                console.log('Data removed successfully from IndexedDb: ', id);
-              }
-              request.onerror = (event) => {
-                console.log('Error removing data: ' + event.target.error);
-              }
-            } catch (error) {
-              console.error('Error in removeData: ', error);
-            } finally {
-              db.close();
+            request.onerror = (event) => {
+              console.log('Error getting data: ' + event.target.errorCode);
             }
-          },
-          // Tik-tok timer visual display //
-          formatTime(value) {
-            // Format time values to add leading zeros if needed
-            return value < 10 ? `0${value}` : value;
-          },
-          startTimer() {
-            if (!this.timerRunning) {
-              this.timerInterval = setInterval(this.tick, 1000);
-              this.timerRunning = true;
-              this.action = 'Pause';
-            }
-          },
-          pauseTimer() {
-            clearInterval(this.timerInterval);
-            this.timerRunning = false;
-            this.action = 'Play';
-          },
-          stopTimer() {
-            clearInterval(this.timerInterval);
-            this.timerRunning = false;
-            this.action = 'Play';
-            this.resetTimer();
-          },
-          tick() {
-            if (this.seconds > 0) {
-              this.seconds--;
-            } else if (this.minutes > 0) {
-              this.minutes--;
-              this.seconds = 59;
-            } else { // selectedTask
-              
-              // Timer reached zero, stop the timer
-              this.stopTimer(); // clear interval and reset timer: mode changes 
-              let reset = this.selectedTask.pomodoro;
-              let notifyMsg = "Let's grind! ☕️";
-              if (this.mode === 'Break') {
-                const status = this.selectedTask.pomodoro === 1 ? 'Completed' : 'In Progress';
-                const payload = {
-                  name: '',
-                  pomodoro: this.selectedTask.pomodoro - 1,
-                  completed: this.selectedTask.completed + 1,
-                  status: status
+            
+          } catch (error) {
+            console.error(error);
+          } finally {
+            db.close();
+          }
+        },
+        async updateData(payload, id) {
+          let db;
+          try {
+            db = await this.openDatabase();
+            const transaction = db.transaction([this.objectStoreName], 'readwrite');
+            const objectStore = transaction.objectStore(this.objectStoreName);
+            const request = objectStore.get(id);
+            request.onsuccess = (event) => {
+              const updateTask = event.target.result;
+              if (updateTask) {
+                if (payload.name !== '')
+                  updateTask.name = payload.name;
+                if (payload.pomodoro !== '')
+                  updateTask.pomodoro = payload.pomodoro;
+                if (payload.completed !== '')
+                  updateTask.completed = payload.completed;
+                if (payload.status !== '')
+                  updateTask.status = payload.status;
+                const putRequest = objectStore.put(updateTask);
+                putRequest.onsuccess = (event) => { 
+                  console.log('Data updated successfully: ', event.target.result);
                 };
-                reset = payload.pomodoro;
-                this.autoupdate = true;
-                this.updateTask(payload, this.selectedTask.id);
-                notifyMsg = "Good Progress, Time for a break! 🌬";
-              }
-              this.showNotification(notifyMsg);
-              if (this.settings.autocontinue && reset !== 0) {
-                this.startTimer();
+                putRequest.onerror = (event) => {
+                  console.error('Error updating data: ', event.target.error);
+                };
               }
             }
-            document.title = this.mode + " | " +  this.formatTime(this.minutes) + ":" + this.formatTime(this.seconds);
-          },
-          resetTimer() {
+
+            request.onerror = (event) => {
+              console.error('Error fetching data for update: ', event.target.error);
+            };
+          } catch (error) {
+            console.error('Error opening database: ', error);
+          } 
+        },
+        async removeData(id) {
+          let db;
+          try {
+            db = await this.openDatabase();
+            const transaction = db.transaction([this.objectStoreName], 'readwrite');
+            const objectStore = transaction.objectStore(this.objectStoreName);
+
+            const request = objectStore.delete(id);
+            request.onsuccess = (event) => {
+              console.log('Data removed successfully from IndexedDb: ', id);
+            }
+            request.onerror = (event) => {
+              console.log('Error removing data: ' + event.target.error);
+            }
+          } catch (error) {
+            console.error('Error in removeData: ', error);
+          } finally {
+            db.close();
+          }
+        },
+        // Tik-tok timer visual display //
+        formatTime(value) {
+          // Format time values to add leading zeros if needed
+          return value < 10 ? `0${value}` : value;
+        },
+        startTimer() {
+          if (!this.timerRunning) {
+            this.timerInterval = setInterval(this.tick, 1000);
+            this.timerRunning = true;
+            this.action = 'Pause';
+          }
+        },
+        pauseTimer() {
+          clearInterval(this.timerInterval);
+          this.timerRunning = false;
+          this.action = 'Play';
+        },
+        stopTimer() {
+          clearInterval(this.timerInterval);
+          this.timerRunning = false;
+          this.action = 'Play';
+          this.resetTimer();
+        },
+        tick() {
+          if (this.seconds > 0) {
+            this.seconds--;
+          } else if (this.minutes > 0) {
+            this.minutes--;
+            this.seconds = 59;
+          } else { // selectedTask
             
-            if (this.minutes == 0) { // toggle between Focus/Break
-              this.mode = this.mode === 'Focus' ? 'Break': 'Focus';
+            // Timer reached zero, stop the timer
+            this.stopTimer(); // clear interval and reset timer: mode changes 
+            let reset = this.selectedTask.pomodoro;
+            let notifyMsg = "Let's grind! ☕️";
+            if (this.mode === 'Break') {
+              const status = this.selectedTask.pomodoro === 1 ? 'Completed' : 'In Progress';
+              const payload = {
+                name: '',
+                pomodoro: this.selectedTask.pomodoro - 1,
+                completed: this.selectedTask.completed + 1,
+                status: status
+              };
+              reset = payload.pomodoro;
+              this.autoupdate = true;
+              this.updateTask(payload, this.selectedTask.id);
+              notifyMsg = "Good Progress, Time for a break! 🌬";
             }
-            this.minutes = this.mode === 'Focus' ? this.settings.pomodotime: this.settings.shortbreak;
-            
-            this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
-            this.seconds = 0;
-          },
-          updateDasharray() { // handle trickle down effect
-            const totalDuration = this.mode === 'Focus' ? this.settings.pomodotime * 60: this.count == 4? this.settings.longbreak: this.settings.shortbreak * 60;
-            const remainingTime = this.minutes * 60 + this.seconds;
-            const timePercent = 1-(remainingTime / totalDuration);
-            this.dashoffset = this.circumference * timePercent;
-            this.rotation = -360 * timePercent;
-          },
-          // AXIOS Persistent Data //
-          addTask(payload) {
-            if (this.online) {
-              const path = '/tasks';
-              axios.post(path, payload, {headers: {'X-Session-ID': localStorage.getItem('session_id')}})
-                .then((res) => {
-                  this.storeData(res.data.task);
-                  this.getTasks();
-                })
-                .catch((error) => {
-                  console.error(error);
-                  this.getTasks();
-                });
-            } else {
-              payload.id = uuidv4().replace(/-/g, '');
-              payload.completed = 0;
-              payload.status = 'Not Started';
-              this.storeData(payload);
-              this.getTasks();
+            this.showNotification(notifyMsg);
+            if (this.settings.autocontinue && reset !== 0) {
+              this.startTimer();
             }
-          },
-          updateTask(payload, taskId) { // for both auto-update and manual update
-            if (this.online) {
-              const path = `/tasks/${taskId}`;
-              axios.put(path, payload, {headers: {'X-Session-ID': localStorage.getItem('session_id')}})
-                .then((res) => {
-                  this.updateData(res.data.task, taskId); // update IndexedDb
-                  this.getTasks(); // get tasks 
-                  this.counter++; // increase the counter
-                  if (this.autoupdate) { // re-select the task because we get a fresh batch of tasks 
-                    const defaultSelectedTask = this.tasks.find(task => task.id === res.data.task.id);
-                    defaultSelectedTask.pomodoro = res.data.task.pomodoro;
-                    defaultSelectedTask.completed = res.data.task.completed;
-                    defaultSelectedTask.status = res.data.task.status;
-                    if (defaultSelectedTask) {
-                      this.selectedTask = defaultSelectedTask;
-                    }
-                    this.autoupdate = false; // disable 
-                  }
-                  if (this.selectedTask != null) { // should only be applied to auto-update
-                    if (this.selectedTask.pomodoro == 0) { // complete the task?
-                      this.mode = 'Focus';
-                      this.minutes = this.settings.pomodotime;
-                      this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
-                      this.counter = 0;
-                    } 
-                    if (this.counter == 4 && this.mode == 'Break') {
-                      this.minutes = this.settings.longbreak;
-                      this.counter = 0; //reset 
-                    } 
-                  }
-                })
-                .catch((error) => {
-                  console.error(error);
-                  this.getTasks();
-                });
-            } else {
-              this.updateData(payload, taskId);
-              this.getTasks();
-              this.counter++; // increase the counter
-              if (this.autoupdate) { // re-select the task 
-                const defaultSelectedTask = this.tasks.find(task => task.id === taskId);
-                defaultSelectedTask.pomodoro = payload.pomodoro;
-                defaultSelectedTask.completed = payload.completed;
-                defaultSelectedTask.status = payload.status;
-                if (defaultSelectedTask) {
-                  this.selectedTask = defaultSelectedTask;
-                }
-                this.autoupdate = false;
-              } 
-            }
-            if (this.selectedTask != null) {
-              if (this.selectedTask.pomodoro == 0) { // complete the task?
-                this.mode = 'Focus';
-                this.minutes = this.settings.pomodotime;
-                this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
-                this.counter = 0;
-              } 
-              if (this.counter == 4 && this.mode == 'Break') {
-                this.minutes = this.settings.longbreak;
-                this.counter = 0; //reset 
-              }
-            }
-          },
-          removeTask(taskId) {
-            if (this.online) {
-              const path = `/tasks/${taskId}`;
-              axios.delete(path, {headers: {'X-Session-ID': localStorage.getItem('session_id')}})
-                .then(() => {
-                  this.removeData(taskId);
-                  this.getTasks();
-                })
-                .catch((error) => {
-                  console.error(error);
-                  this.getTasks();
-                })
-            } else {
-              this.removeData(taskId);
-              this.getTasks();
-            }
-          },
-          getTasks() {
-            if (this.online) {
+          }
+          document.title = this.mode + " | " +  this.formatTime(this.minutes) + ":" + this.formatTime(this.seconds);
+        },
+        resetTimer() {
+          
+          if (this.minutes == 0) { // toggle between Focus/Break
+            this.mode = this.mode === 'Focus' ? 'Break': 'Focus';
+          }
+          this.minutes = this.mode === 'Focus' ? this.settings.pomodotime: this.settings.shortbreak;
+          
+          this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
+          this.seconds = 0;
+        },
+        updateDasharray() { // handle trickle down effect
+          const totalDuration = this.mode === 'Focus' ? this.settings.pomodotime * 60: this.count == 4? this.settings.longbreak: this.settings.shortbreak * 60;
+          const remainingTime = this.minutes * 60 + this.seconds;
+          const timePercent = 1-(remainingTime / totalDuration);
+          this.dashoffset = this.circumference * timePercent;
+          this.rotation = -360 * timePercent;
+        },
+        // AXIOS Persistent Data //
+        addTask(payload) {
+          if (this.online) {
             const path = '/tasks';
-            axios.get(path, { headers: {'X-Session-ID': localStorage.getItem('session_id')} })
+            axios.post(path, payload, {headers: {'X-Session-ID': localStorage.getItem('session_id')}})
               .then((res) => {
-                this.tasks = res.data.tasks;
-                if (res.data.session_id) {
-                  localStorage.setItem('session_id', res.data.session_id);
+                this.storeData(res.data.task);
+                this.getTasks();
+              })
+              .catch((error) => {
+                console.error(error);
+                this.getTasks();
+              });
+          } else {
+            payload.id = uuidv4().replace(/-/g, '');
+            payload.completed = 0;
+            payload.status = 'Not Started';
+            this.storeData(payload);
+            this.getTasks();
+          }
+        },
+        updateTask(payload, taskId) { // for both auto-update and manual update
+          if (this.online) {
+            const path = `/tasks/${taskId}`;
+            axios.put(path, payload, {headers: {'X-Session-ID': localStorage.getItem('session_id')}})
+              .then((res) => {
+                this.updateData(res.data.task, taskId); // update IndexedDb
+                this.getTasks(); // get tasks 
+                this.counter++; // increase the counter
+                if (this.autoupdate) { // re-select the task because we get a fresh batch of tasks 
+                  const defaultSelectedTask = this.tasks.find(task => task.id === res.data.task.id);
+                  defaultSelectedTask.pomodoro = res.data.task.pomodoro;
+                  defaultSelectedTask.completed = res.data.task.completed;
+                  defaultSelectedTask.status = res.data.task.status;
+                  if (defaultSelectedTask) {
+                    this.selectedTask = defaultSelectedTask;
+                  }
+                  this.autoupdate = false; // disable 
+                }
+                if (this.selectedTask != null) { // should only be applied to auto-update
+                  if (this.selectedTask.pomodoro == 0) { // complete the task?
+                    this.mode = 'Focus';
+                    this.minutes = this.settings.pomodotime;
+                    this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
+                    this.counter = 0;
+                  } 
+                  if (this.counter == 4 && this.mode == 'Break') {
+                    this.minutes = this.settings.longbreak;
+                    this.counter = 0; //reset 
+                  } 
                 }
               })
               .catch((error) => {
                 console.error(error);
+                this.getTasks();
               });
-            } else {
-              this.retrieveData();
-            }
-          },
-          // Handle Buttons //
-          handleAction() {
-            if (this.action === 'Play' && this.selectedTask != null && this.selectedTask.status != 'Completed') {
-              this.startTimer();
-            } else if (this.action === 'Pause') {
-              this.pauseTimer();
-            } else {              
-              alert("Please select a task to pomodoro.");
-            }
-          },
-          handleAddReset() {
-            this.initForm();
-          },
-          handleAddSubmit() {
-            if (this.addTaskForm.name.trim() != '') {
-              this.toggleAddTaskModal();
-              if (this.tasks.length < 10) {
-                const payload = {
-                  name: this.addTaskForm.name,
-                  pomodoro: this.addTaskForm.pomodoro
-                };
-                this.addTask(payload);
-                this.initForm();
-              } else {
-                alert("Sorry, there can only be 10 tasks at a time. Please delete a task before adding a new one.");
+          } else {
+            this.updateData(payload, taskId);
+            this.getTasks();
+            this.counter++; // increase the counter
+            if (this.autoupdate) { // re-select the task 
+              const defaultSelectedTask = this.tasks.find(task => task.id === taskId);
+              defaultSelectedTask.pomodoro = payload.pomodoro;
+              defaultSelectedTask.completed = payload.completed;
+              defaultSelectedTask.status = payload.status;
+              if (defaultSelectedTask) {
+                this.selectedTask = defaultSelectedTask;
               }
+              this.autoupdate = false;
+            } 
+          }
+          if (this.selectedTask != null) {
+            if (this.selectedTask.pomodoro == 0) { // complete the task?
+              this.mode = 'Focus';
+              this.minutes = this.settings.pomodotime;
+              this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
+              this.counter = 0;
+            } 
+            if (this.counter == 4 && this.mode == 'Break') {
+              this.minutes = this.settings.longbreak;
+              this.counter = 0; //reset 
             }
-          },
-          handleEditSubmit() {
-            this.toggleEditTaskModal(null);
-            let status = this.editTaskForm.completeCheck? "Completed": "";
-            const payload = {
-              name: this.editTaskForm.name,
-              pomodoro: '',
-              completed: '',
-              status: status
-            };
-            this.updateTask(payload, this.editTaskForm.id);
-          },
-          handleEditCancel() {
-            this.toggleEditTaskModal(null);
-          },
-          handleDeleteTask(task) {
-            this.removeTask(task.id);
-          },
-          initForm() {
-            this.addTaskForm.name = '';
-            this.addTaskForm.pomodoro = 3;
-          },
-          toggleAddTaskModal() {
-            const body = document.querySelector('body');
-            this.activeAddTaskModal = !this.activeAddTaskModal;
-            if (this.activeAddTaskModal) {
-              body.classList.add('modal-open');
-              this.$nextTick(() => {
-                this.$refs.addname.focus();
-              });
-            } else {
-              body.classList.remove('modal-open');
-            }
-          },
-          toggleEditTaskModal(task) {
-            if (task) {
-              this.editTaskForm = task;
-            }
-            const body = document.querySelector('body');
-            this.activeEditTaskModal = !this.activeEditTaskModal;
-            if (this.activeEditTaskModal) {
-              body.classList.add('modal-open');
-              this.$nextTick(() => {
-                this.$refs.editname.focus();
-              });
-            } else {
-              body.classList.remove('modal-open');
-            }
-          },
-          handleSettings() {
-            this.toggleSettingsModal();
-          },
-          toggleSettingsModal() {
-            const body = document.querySelector('body');
-            this.activeSettingsModal = !this.activeSettingsModal;
-            if (this.activeSettingsModal) {
-              body.classList.add('modal-open');
-            } else {
-              body.classList.remove('modal-open');
-              this.updateSettings();
-            }
-          },
-          updateSettings() {
-            this.selectedTask = null;
-            this.mode = 'Focus';
-            this.minutes = this.settings.pomodotime;
-            this.seconds = 0;
-            this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
-            document.title = this.mode + " | " +  this.formatTime(this.minutes) + ":" + this.formatTime(this.seconds);
-          },
+          }
         },
-        watch: {
-            // Watch for changes in minutes and seconds and update dasharray
-            minutes: 'updateDasharray',
-            seconds: 'updateDasharray',
+        removeTask(taskId) {
+          if (this.online) {
+            const path = `/tasks/${taskId}`;
+            axios.delete(path, {headers: {'X-Session-ID': localStorage.getItem('session_id')}})
+              .then(() => {
+                this.removeData(taskId);
+                this.getTasks();
+              })
+              .catch((error) => {
+                console.error(error);
+                this.getTasks();
+              })
+          } else {
+            this.removeData(taskId);
+            this.getTasks();
+          }
         },
-        created() {
-          this.getTasks();
-          this.updateSettings();
-          //this.showNotification();
-          console.log(this.notification);
+        getTasks() {
+          if (this.online) {
+          const path = '/tasks';
+          axios.get(path, { headers: {'X-Session-ID': localStorage.getItem('session_id')} })
+            .then((res) => {
+              this.tasks = res.data.tasks;
+              if (res.data.session_id) {
+                localStorage.setItem('session_id', res.data.session_id);
+              }
+            })
+            .catch((error) => {
+              console.error(error);
+            });
+          } else {
+            this.retrieveData();
+          }
         },
-      };
-    </script>
+        // Handle Buttons //
+        handleAction() {
+          if (this.action === 'Play' && this.selectedTask != null && this.selectedTask.status != 'Completed') {
+            this.startTimer();
+          } else if (this.action === 'Pause') {
+            this.pauseTimer();
+          } else {              
+            alert("Please select a task to pomodoro.");
+          }
+        },
+        handleAddReset() {
+          this.initForm();
+        },
+        handleAddSubmit() {
+          if (this.addTaskForm.name.trim() != '') {
+            this.toggleAddTaskModal();
+            if (this.tasks.length < 10) {
+              const payload = {
+                name: this.addTaskForm.name,
+                pomodoro: this.addTaskForm.pomodoro
+              };
+              this.addTask(payload);
+              this.initForm();
+            } else {
+              alert("Sorry, there can only be 10 tasks at a time. Please delete a task before adding a new one.");
+            }
+          }
+        },
+        handleEditSubmit() {
+          this.toggleEditTaskModal(null);
+          let status = this.editTaskForm.completeCheck? "Completed": "";
+          const payload = {
+            name: this.editTaskForm.name,
+            pomodoro: '',
+            completed: '',
+            status: status
+          };
+          this.updateTask(payload, this.editTaskForm.id);
+        },
+        handleEditCancel() {
+          this.toggleEditTaskModal(null);
+        },
+        handleDeleteTask(task) {
+          this.removeTask(task.id);
+        },
+        initForm() {
+          this.addTaskForm.name = '';
+          this.addTaskForm.pomodoro = 3;
+        },
+        toggleAddTaskModal() {
+          const body = document.querySelector('body');
+          this.activeAddTaskModal = !this.activeAddTaskModal;
+          if (this.activeAddTaskModal) {
+            body.classList.add('modal-open');
+            this.$nextTick(() => {
+              this.$refs.addname.focus();
+            });
+          } else {
+            body.classList.remove('modal-open');
+          }
+        },
+        toggleEditTaskModal(task) {
+          if (task) {
+            this.editTaskForm = task;
+          }
+          const body = document.querySelector('body');
+          this.activeEditTaskModal = !this.activeEditTaskModal;
+          if (this.activeEditTaskModal) {
+            body.classList.add('modal-open');
+            this.$nextTick(() => {
+              this.$refs.editname.focus();
+            });
+          } else {
+            body.classList.remove('modal-open');
+          }
+        },
+        handleSettings() {
+          this.toggleSettingsModal();
+        },
+        toggleSettingsModal() {
+          const body = document.querySelector('body');
+          this.activeSettingsModal = !this.activeSettingsModal;
+          if (this.activeSettingsModal) {
+            body.classList.add('modal-open');
+          } else {
+            body.classList.remove('modal-open');
+            this.updateSettings();
+          }
+        },
+        updateSettings() {
+          this.selectedTask = null;
+          this.mode = 'Focus';
+          this.minutes = this.settings.pomodotime;
+          this.seconds = 0;
+          this.strokecolor = this.mode === 'Focus' ? '#51B170': '#6085C5';
+          this.stopTimer();
+          document.title = this.mode + " | " +  this.formatTime(this.minutes) + ":" + this.formatTime(this.seconds);
+        },
+      },
+      watch: {
+          // Watch for changes in minutes and seconds and update dasharray
+          minutes: 'updateDasharray',
+          seconds: 'updateDasharray',
+      },
+      created() {
+        this.getTasks();
+        this.updateSettings();
+        //this.showNotification();
+      },
+    };
+  </script>
